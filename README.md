@@ -1,4 +1,4 @@
-# pdl1-ai-explorer
+# PDL1 AI Explorer
 
 ### An IGNITE-Inspired Replication of AI-Powered Tumour Cell Detection
 
